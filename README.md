@@ -1,108 +1,166 @@
 # Alberto Sebastián Jiménez García
 
-### AI Automation · Full-Stack Development · Integrations · Product Engineering
+### Applied AI · Full-Stack Development · Automation · Integrations · Product Engineering
 
 📍 Tenerife, Spain · Open to Remote Opportunities  
-📧 albertosjg@gmail.com  
-🌐 [NexOS](https://nexostudios.digital/)  
-💻 [GitHub](https://github.com/AlbertoSJG85)
+📧 [albertosjg@gmail.com](mailto:albertosjg@gmail.com)  
+🌐 [NexOS Digital Studios](https://nexostudios.digital/)  
+💼 [LinkedIn](https://www.linkedin.com/in/alberto-sebasti%C3%A1n-jim%C3%A9nez-garc%C3%ADa-a19b45b3/)  
 
 ---
 
 ## 👋 About me
 
-I'm a software developer and AI product builder focused on turning real business problems into working systems.
+I'm a software developer and AI product builder focused on turning real-world problems into working systems.
 
-I build across the full product lifecycle:
+Many of the products I build started with problems I experienced myself.
+
+I have vacation-rental properties and a taxi license, so I started building software to simplify those operations. That eventually became products such as **RentOS** and **PilotOS**, with PilotOS also being used by other professionals managing drivers.
+
+Since then, I have continued building across the full product lifecycle:
 
 **idea → architecture → development → integrations → testing → deployment → production → troubleshooting**
 
-My strongest areas are applied AI, automation, API integrations, backend/full-stack development and the infrastructure required to make those systems actually work in production.
+My strongest areas are **Applied AI, automation, AI agents, API integrations, backend/full-stack development and production infrastructure**.
 
-I use AI-assisted engineering extensively as part of my development workflow, combining modern AI tools with hands-on ownership of architecture, validation, testing, deployments and production operations.
+I work comfortably across frontend, backend, databases, APIs, authentication, automation, deployment and infrastructure rather than treating them as isolated pieces.
 
-I learn fast, I like solving complex problems, and I'm particularly comfortable working where software, AI and real-world business operations meet.
+I also use AI-assisted engineering extensively as part of my development workflow, combining modern AI tools with hands-on ownership of architecture, validation, testing, deployment and production operations.
+
+I'm particularly interested in the point where **software, AI and real-world business operations meet**.
 
 ---
 
-# 🚀 Products & Live Systems
+# 🚀 Products & Systems
 
-## NexOS
-**Operating systems for real businesses**
+## NexOS Digital Studios
 
-NexOS is the ecosystem that connects the products, automation, AI agents and shared infrastructure I build and operate.
+**Software, automation and Applied AI for real businesses**
+
+NexOS is the ecosystem that connects the products, automation systems, AI agents, integrations and shared infrastructure I build and operate.
+
+The goal is not to create isolated tools, but systems where software, automation and intelligence work together around real operational processes.
 
 🔗 https://nexostudios.digital/
 
 ---
 
-## 🏠 RentOS
-**Operations platform for vacation-rental businesses**
-
-RentOS automates and coordinates booking operations, guest workflows, communications, check-in processes and daily operational tasks.
-
-Key areas:
-- Automated booking workflows
-- iCal integrations
-- Guest communication
-- AI-assisted operations
-- Operational dashboards
-- Workflow automation
-- External service integrations
-
-🔗 **Live product:** https://rentos.nexostudios.digital/
-
----
-
 ## 🚕 PilotOS
-**Operational management system for taxi and fleet businesses**
 
-PilotOS centralizes daily operations, income, expenses, drivers, maintenance, documentation, alerts and reporting.
+**Operational management system for taxi and driver operations**
+
+PilotOS started as a solution for managing my own taxi activity and evolved into a complete operational product that is also used by other professionals managing salaried drivers.
 
 Key areas:
-- Full-stack application
-- Operational and financial workflows
-- Role-based access
-- PostgreSQL / Prisma
-- Automated alerts
-- Reporting
-- Security and session management
-- Resilience and observability
-- Automated testing and CI
 
-🔗 **Live product:** https://pilotos.nexostudios.digital/  
+- Full-stack product development
+- Daily operational workflows
+- Driver and service management
+- Financial tracking and reporting
+- Authentication and security
+- PostgreSQL / Prisma
+- APIs and integrations
+- Automated alerts and scheduled processes
+- Testing and CI
+- Docker deployment
+- Production troubleshooting
+
+Core stack:
+
+`Next.js` `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Docker`
+
+🔗 **Product:** https://pilotos.nexostudios.digital/  
 💻 **Public repository:** https://github.com/AlbertoSJG85/-PilotOS
 
 ---
 
-## 🏥 ClinicOS
-**Operational platform for clinics and healthcare professionals**
+## 🏠 RentOS
 
-ClinicOS is designed to organize and automate digital patient-facing workflows while keeping clear boundaries around clinical decisions and human responsibility.
+**Automation and operational platform for vacation-rental businesses**
+
+RentOS was created to solve repetitive operational problems in my own vacation-rental properties.
+
+It coordinates reservations, guest communication and operational workflows while connecting automation and AI with the day-to-day management of an accommodation business.
 
 Key areas:
-- Structured intake and routing
+
+- Reservation workflows
+- iCal integrations
+- Guest communication
+- Pre-check-in processes
+- Operational automation
+- AI-assisted guest interactions
+- Dashboards and management workflows
+- External service integrations
+
+🔗 **Product:** https://rentos.nexostudios.digital/  
+▶️ **Interactive demo:** https://rentos.nexostudios.digital/demo/
+
+---
+
+## 🧠 NexOS Meta
+
+**Central messaging and integration layer for WhatsApp and Instagram**
+
+NexOS Meta is the communication infrastructure that connects Meta channels with AI agents and operational systems across NexOS.
+
+Rather than embedding channel-specific logic inside each product, NexOS Meta centralizes the transport and integration layer.
+
+It handles areas such as:
+
+- Meta Graph API integrations
+- WhatsApp and Instagram messaging
+- Webhooks
+- Event normalization
+- Idempotency
+- Callbacks
+- Outbound messaging
+- OAuth
+- REST APIs
+- Health checks
+- Failure handling
+- Integration with GlorIA and automation workflows
+
+This separation allows messaging transport, AI logic and business workflows to evolve independently.
+
+---
+
+## 🏥 ClinicOS
+
+**Healthcare operations product currently under development**
+
+ClinicOS explores how software and automation can organize patient-facing digital workflows while keeping clear boundaries around clinical decisions and human responsibility.
+
+Current areas include:
+
+- Structured intake
+- Routing and classification
 - Conversational workflows
 - Human handoff
-- Compliance-oriented architecture
+- Typed backend logic
+- Deterministic processing
 - Traceability
-- Modular backend design
 - Healthcare-specific operational rules
 
-🔗 **Live product:** https://clinicos.nexostudios.digital/
+ClinicOS is currently being developed in phases and should be considered an evolving product rather than a complete medical backend platform.
+
+🔗 **Product preview:** https://clinicos.nexostudios.digital/
 
 ---
 
 ## 💰 IngresOS
-**Financial document and income workflow automation**
 
-IngresOS focuses on turning financial and administrative inputs into structured, traceable operational information.
+**Financial document and workflow automation**
+
+IngresOS focuses on converting administrative and financial inputs into structured operational information.
 
 Key areas:
-- Document processing
+
+- Document workflows
 - Data extraction
 - Structured records
 - Automation
+- Financial operations
 - Integration with the NexOS ecosystem
 
 🔒 Core production repository is private.
@@ -110,9 +168,18 @@ Key areas:
 ---
 
 ## 💳 NexOS Pay
+
 **Shared access, subscription and entitlement layer**
 
-NexOS Pay acts as a common internal layer for customers, plans, access rights, usage limits and payment-related operational state across the NexOS ecosystem.
+NexOS Pay provides a common layer for customer access, subscriptions, entitlements and payment-related operational state across the NexOS ecosystem.
+
+Key areas include:
+
+- Access management
+- Subscription state
+- Entitlements
+- Usage controls
+- Shared product infrastructure
 
 🔒 Internal infrastructure / private repository.
 
@@ -122,44 +189,70 @@ NexOS Pay acts as a common internal layer for customers, plans, access rights, u
 
 ## GlorIA
 
-Conversational AI layer used across NexOS products.
+**Conversational AI connected to real operational systems**
 
-GlorIA connects customer conversations with operational systems and can route requests, retrieve product knowledge and trigger workflows through channels such as WhatsApp and Instagram.
+GlorIA is the conversational AI layer used across NexOS products.
+
+Rather than operating as an isolated chatbot, GlorIA connects conversations with product knowledge, operational systems and automation workflows.
+
+It can work across channels such as WhatsApp and Instagram through NexOS Meta.
+
+Areas include:
+
+- Conversational AI
+- Product and business knowledge
+- AI agents
+- Workflow triggering
+- Lead handling
+- API-connected actions
+- WhatsApp and Instagram
+- Human handoff
+- Operational automation
 
 ---
 
-## LucIA
+## LucIA + Hermes
 
-Internal operational assistant built around Telegram.
+LucIA and Hermes are complementary parts of an agent-based architecture.
 
-Designed to support workflows involving documents, reminders, calendar events, email summaries and administrative tasks.
+### LucIA
 
----
+**Interaction and coordination layer**
 
-## Hermes
+LucIA is an operational assistant designed to interact with the user and coordinate workflows involving information, documents, email, calendar events, reminders and administrative tasks.
 
-Autonomous execution agent currently under active development.
+Telegram is currently used as one of its primary interaction channels.
 
-Designed to combine AI reasoning with browser automation, local execution, scripts and controlled access to external tools.
+### Hermes
 
-Areas explored include:
+**Execution layer**
+
+Hermes is an autonomous execution agent currently under active development.
+
+Its purpose is to execute controlled tasks using local tools, browser automation, scripts and a Windows worker environment.
+
+Areas currently explored and implemented include:
 
 - Browser automation
 - Playwright
-- Local workers
-- Task execution
-- AI-assisted workflows
+- Local Windows worker
+- Remote VPS ↔ Windows architecture
+- Scripts and task execution
 - Permission boundaries
-- Remote/local architecture
-- Automated content workflows
+- Controlled tool access
+- Automated workflows
+- Content-processing workflows
+- Local and remote execution
+
+Together, the architecture separates **interaction and coordination from execution**, allowing actions to be performed through controlled workers instead of placing every capability inside a conversational agent.
 
 ---
 
 # 🧠 Applied AI
 
-I work primarily on practical AI systems rather than isolated demos.
+I focus primarily on **practical AI systems integrated with real software and operational workflows**, rather than isolated AI demos.
 
-Areas include:
+Areas I work with include:
 
 - AI agents
 - LLM-powered workflows
@@ -171,8 +264,10 @@ Areas include:
 - Human-in-the-loop workflows
 - Multi-channel AI
 - API-connected agents
+- Agent orchestration
+- Workflow automation
 
-AI platforms used include:
+AI platforms and tools used include:
 
 **OpenAI · Anthropic / Claude · Google Gemini**
 
@@ -180,56 +275,70 @@ AI platforms used include:
 
 # 🛠 Tech Stack
 
-### Backend & APIs
-`Node.js` `Express` `TypeScript` `Python` `REST APIs` `Webhooks` `OAuth`
+### Languages
+
+`TypeScript` `JavaScript` `Python`
 
 ### Frontend
-`React` `Next.js` `TypeScript`
+
+`React` `Next.js` `Tailwind CSS`
+
+### Backend & APIs
+
+`Node.js` `Express` `REST APIs` `Webhooks` `OAuth 2.0` `JSON`
 
 ### Data
-`PostgreSQL` `Prisma`
 
-### Infrastructure
-`Linux` `Docker` `VPS` `Coolify` `SSH` `Cron`
+`PostgreSQL` `Prisma` `SQL`
+
+### Infrastructure & Cloud
+
+`Linux` `Docker` `VPS` `Google Cloud` `Coolify` `SSH` `Cron`
 
 ### Automation
-`n8n` `Playwright` `FFmpeg`
+
+`n8n` `Playwright` `FFmpeg` `Browser Automation` `Workflow Automation`
 
 ### Quality & Engineering
-`Git` `GitHub` `Vitest` `Integration Testing` `E2E Testing` `CI/CD` `Health Checks` `Observability`
+
+`Git` `GitHub` `Vitest` `Integration Testing` `CI/CD` `Health Checks` `Logs` `Rollback`
+
+### Infrastructure Operations
+
+`Backups` `Backblaze B2` `SHA-256 Validation` `Monitoring` `Troubleshooting`
 
 ### Platforms & Integrations
+
 `Meta Graph API` `WhatsApp` `Instagram` `TikTok` `Google Drive` `Telegram`
 
 ### AI
+
 `OpenAI` `Claude` `Gemini` `AI Agents` `Tool Use` `LLM Workflows`
 
 ---
 
 # 🧩 Selected Public Work
 
-### PilotOS
-Full-stack operational platform with backend, frontend, database, testing, security and production-oriented architecture.
+## 🚕 PilotOS
 
-🔗 https://github.com/AlbertoSJG85/-PilotOS
+Full-stack operational product covering frontend, backend, database, authentication, integrations, testing, deployment and production-oriented infrastructure.
 
-### NexOS Neural Platform
-AI-focused React / TypeScript application.
+**Stack:**  
+`Next.js` `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Docker`
 
-🔗 https://github.com/AlbertoSJG85/nexos-neural-platform
-
-### RentOS Marketing OS
-Public project related to the RentOS ecosystem.
-
-🔗 https://github.com/AlbertoSJG85/rentos-marketing-os
+💻 https://github.com/AlbertoSJG85/-PilotOS
 
 ---
 
-# 🔐 About my private repositories
+# 🔐 Private repositories
 
 A significant part of my current work lives in private repositories because it contains proprietary product code, infrastructure configuration and production integrations.
 
-The live products above demonstrate the systems publicly, while selected repositories remain available publicly to show representative engineering work.
+The live products and demos above provide public examples of the systems I build, while PilotOS provides a representative public codebase.
+
+**Temporary access to selected private repositories can be provided during recruitment processes for technical review.**
+
+This can include selected product, integration or infrastructure repositories where appropriate.
 
 ---
 
@@ -237,24 +346,31 @@ The live products above demonstrate the systems publicly, while selected reposit
 
 I'm especially interested in opportunities involving:
 
-- AI Engineer / Applied AI Engineer
+- Applied AI Engineer
+- AI Engineer
 - AI Automation Engineer
-- AI Agent Developer
-- Backend Developer
-- Full-Stack Developer
-- Integration Developer
+- AI Agent Engineer / Developer
+- Full-Stack Engineer
+- Backend Engineer
+- Integration Engineer
 - Automation Engineer
 - Solutions Engineer
 - Technical Implementation Engineer
+- Product Engineer
 - AI-native product development
 
 I'm comfortable considering roles that stretch beyond my current stack when the underlying engineering problems are a good fit.
 
+My goal is to join a strong engineering environment where I can contribute the end-to-end ownership I've developed building my own systems while continuing to learn from engineers with deeper experience in different areas.
+
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-**Alberto Sebastián Jiménez García**  
-📧 albertosjg@gmail.com  
+**Alberto Sebastián Jiménez García**
+
 📍 Tenerife, Spain  
-💻 https://github.com/AlbertoSJG85
+📧 [albertosjg@gmail.com](mailto:albertosjg@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/alberto-sebasti%C3%A1n-jim%C3%A9nez-garc%C3%ADa-a19b45b3/)  
+🌐 [NexOS Digital Studios](https://nexostudios.digital/)  
+💻 [GitHub](https://github.com/AlbertoSJG85)
